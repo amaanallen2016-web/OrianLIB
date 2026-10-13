@@ -1,23 +1,22 @@
 ================================================================================
-FreeLib / AuroraUI v1.0.0 - Extracted from .rbxm
-This is the free version of the AuroraUI library for Roblox.
-Extracted as text so you can view it on mobile / GitHub / Chrome.
+FreeLib / Orian v1.0.0 - 
+This is the free version of the Orian library for Roblox.
 ================================================================================
 
 
 
 ================================================================================
-FILE 1: AuroraUI_main.lua
+FILE 1: Orian_main.lua
 ================================================================================
 
 --[[
 ================================================================================
-  AuroraUI  v1.0.0
+  Orian  v1.0.0
   A complete, animated, themeable UI library for Roblox (Studio + live games)
 ================================================================================
 
   STRUCTURE (3 ModuleScripts)
-    AuroraUI          (ModuleScript)  <- this file
+     ORIANUI          (ModuleScript)  <- this file
     ├── Core          (Folder)
     │   └── Core      (ModuleScript)  <- the other half of the library, required
     └── CodeEngine    (ModuleScript)  <- language table, highlighter, autocomplete
